@@ -6,10 +6,10 @@ The goal is to predict the species of an iris flower: **Setosa**, **Versicolor**
 
 
 # 2.Tools & Libraries Used:
-- Python
-- Pandas
-- Scikit-learn
-- RandomForestClassifier
+- Python.
+- Pandas.
+- Scikit-learn.
+- RandomForestClassifier.
 
 
 # 3.Dataset:
