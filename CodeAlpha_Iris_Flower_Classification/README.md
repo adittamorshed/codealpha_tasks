@@ -23,7 +23,7 @@ The goal is to predict the species of an iris flower: **Setosa**, **Versicolor**
      -PetalWidthCm- Petal width in cm 
      -Species- Type of Iris flower (Setosa, Versicolor, Virginica) 
 
-# 4.Project Workflow:**
+# 4.Project Workflow:
 
    1. Data Loading & Exploration- Loaded the Iris dataset and explored its structure
    2. Data Preprocessing- Encoded species labels into numeric form. (0,1,2)
@@ -34,7 +34,7 @@ The goal is to predict the species of an iris flower: **Setosa**, **Versicolor**
 
 
 # 5.Results:
-- **Accuracy:** ~99%
+- Accuracy: ~99%
 - The model effectively classifies all three species of Iris flowers with near-perfect performance.
 
 
